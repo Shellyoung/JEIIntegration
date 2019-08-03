@@ -1,0 +1,47 @@
+# JEI Integration Language File
+
+### Language Name: Русский
+### Language Region: Россия
+### Language Code: ru_RU
+
+# Config
+config.jeiintegration.default=По умолчанию
+config.jeiintegration.valid=Действительно
+
+config.jeiintegration.title=Настройки JEI Integration
+config.jeiintegration.handlers=Настройки обработчика
+config.jeiintegration.handlers.comment=Разрешить или запретить некоторые обработчики рецептов этого мода
+config.jeiintegration.tooltips=Настройки подсказки
+config.jeiintegration.tooltips.comment=Подсказка не определена. Как иронично.
+config.jeiintegration.miscellaneous=Разные настройки
+config.jeiintegration.miscellaneous.comment=Они разные... Почему ты ждёшь от меня, что я знаю - что в них?
+
+config.jeiintegration.tooltips.burnTimeTooltipMode=Время горения
+config.jeiintegration.tooltips.burnTimeTooltipMode.comment=Настроить отображение времени горения
+config.jeiintegration.tooltips.durabilityTooltipMode=Прочность
+config.jeiintegration.tooltips.durabilityTooltipMode.comment=Разрешить или запретить отображение прочности предмета
+config.jeiintegration.tooltips.fluidRegInfoTooltipMode=Информация из реестра житкостей
+config.jeiintegration.tooltips.fluidRegInfoTooltipMode.comment=Настроить отображение информации из реестра жидкостей
+config.jeiintegration.tooltips.registryNameTooltipMode=Название из реестра
+config.jeiintegration.tooltips.registryNameTooltipMode.comment=Настроить отображение названия из реестра
+config.jeiintegration.tooltips.maxStackSizeTooltipMode=Максимальный размер стэка
+config.jeiintegration.tooltips.maxStackSizeTooltipMode.comment=Настроить отображение максимального размера стэка
+config.jeiintegration.tooltips.metadataTooltipMode=Метаданные
+config.jeiintegration.tooltips.metadataTooltipMode.comment=Настроить отображение метаданных
+config.jeiintegration.tooltips.nbt.Tooltip.Mode
+config.jeiintegration.tooltips.nbt.Tooltip.Mode.comment
+config.jeiintegration.tooltips.oreDictEntriesTooltipMode=Записи из словаря руд
+config.jeiintegration.tooltips.oreDictEntriesTooltipMode.comment=Настроить отображение записей из словаря руд
+config.jeiintegration.tooltips.unlocalizedNameTooltipMode=Непереведённое название
+config.jeiintegration.tooltips.unlocalizedNameTooltipMode.comment=Настроить отображение оригинального непереведённого названия
+
+# Tooltips
+tooltip.jeiintegration.metadata=Метаданные:
+tooltip.jeiintegration.nbtTagData=NBT:
+tooltip.jeiintegration.durability=Прочность:
+tooltip.jeiintegration.burnTime=Время горения:
+tooltip.jeiintegration.burnTime.suffix=тиков
+tooltip.jeiintegration.registryName=ID:
+tooltip.jeiintegration.maxStackSize=Макс. размер стэка:
+tooltip.jeiintegration.oreDict=Словарь руд:
+tooltip.jeiintegration.unlocalizedName=Оригинальное название:
