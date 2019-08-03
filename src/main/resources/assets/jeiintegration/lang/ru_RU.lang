@@ -14,7 +14,7 @@ config.jeiintegration.handlers.comment=Разрешить или запрети�
 config.jeiintegration.tooltips=Настройки подсказки
 config.jeiintegration.tooltips.comment=Подсказка не определена. Как иронично.
 config.jeiintegration.miscellaneous=Разные настройки
-config.jeiintegration.miscellaneous.comment=Они разные... Почему ты ждёшь от меня, что я знаю - что в них?
+config.jeiintegration.miscellaneous.comment=Они разные... Почему ты ждёшь от меня, что я знаю, что в них находится?
 
 config.jeiintegration.tooltips.burnTimeTooltipMode=Время горения
 config.jeiintegration.tooltips.burnTimeTooltipMode.comment=Настроить отображение времени горения
