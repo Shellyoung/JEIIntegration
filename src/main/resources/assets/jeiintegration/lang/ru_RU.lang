@@ -28,8 +28,8 @@ config.jeiintegration.tooltips.maxStackSizeTooltipMode=Максимальный 
 config.jeiintegration.tooltips.maxStackSizeTooltipMode.comment=Настроить отображение максимального размера стэка
 config.jeiintegration.tooltips.metadataTooltipMode=Метаданные
 config.jeiintegration.tooltips.metadataTooltipMode.comment=Настроить отображение метаданных
-config.jeiintegration.tooltips.nbt.Tooltip.Mode
-config.jeiintegration.tooltips.nbt.Tooltip.Mode.comment
+config.jeiintegration.tooltips.nbt.Tooltip.Mode=Тэги NBT
+config.jeiintegration.tooltips.nbt.Tooltip.Mode.comment=Настроить отображение тэгов NBT (Named Binary Tag)
 config.jeiintegration.tooltips.oreDictEntriesTooltipMode=Записи из словаря руд
 config.jeiintegration.tooltips.oreDictEntriesTooltipMode.comment=Настроить отображение записей из словаря руд
 config.jeiintegration.tooltips.unlocalizedNameTooltipMode=Непереведённое название
